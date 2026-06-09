@@ -32,7 +32,8 @@ class Student(Person):
 
     # polymorphism -- 
     def get_details(self):
-        return f"Name: {self.Name}, Student ID: {self.StudentID}"
+        print(f"Name: {self.Name}, Student ID: {self.StudentID}")
+        return self.Name, self.StudentID
 
 
 # Teacher
