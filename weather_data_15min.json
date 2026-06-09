@@ -1,0 +1,602 @@
+[
+    {
+        "City name":"New York",
+        "Temperature (C)":21.34,
+        "Weather description":"broken clouds",
+        "Humidity":63,
+        "Wind speed":3.13,
+        "Timestamp":"2026-06-05 19:42:22"
+    },
+    {
+        "City name":"London",
+        "Temperature (C)":17.58,
+        "Weather description":"broken clouds",
+        "Humidity":53,
+        "Wind speed":1.79,
+        "Timestamp":"2026-06-05 19:42:22"
+    },
+    {
+        "City name":"Tokyo",
+        "Temperature (C)":17.08,
+        "Weather description":"overcast clouds",
+        "Humidity":81,
+        "Wind speed":1.79,
+        "Timestamp":"2026-06-05 19:42:23"
+    },
+    {
+        "City name":"Sydney",
+        "Temperature (C)":13.25,
+        "Weather description":"broken clouds",
+        "Humidity":64,
+        "Wind speed":0.45,
+        "Timestamp":"2026-06-05 19:42:23"
+    },
+    {
+        "City name":"Paris",
+        "Temperature (C)":16.59,
+        "Weather description":"overcast clouds",
+        "Humidity":63,
+        "Wind speed":0.89,
+        "Timestamp":"2026-06-05 19:42:24"
+    },
+    {
+        "City name":"New York",
+        "Temperature (C)":21.34,
+        "Weather description":"broken clouds",
+        "Humidity":63,
+        "Wind speed":3.13,
+        "Timestamp":"2026-06-05 19:43:25"
+    },
+    {
+        "City name":"London",
+        "Temperature (C)":17.58,
+        "Weather description":"broken clouds",
+        "Humidity":53,
+        "Wind speed":1.79,
+        "Timestamp":"2026-06-05 19:43:25"
+    },
+    {
+        "City name":"Tokyo",
+        "Temperature (C)":17.08,
+        "Weather description":"overcast clouds",
+        "Humidity":81,
+        "Wind speed":1.79,
+        "Timestamp":"2026-06-05 19:43:26"
+    },
+    {
+        "City name":"Sydney",
+        "Temperature (C)":12.95,
+        "Weather description":"broken clouds",
+        "Humidity":65,
+        "Wind speed":0.45,
+        "Timestamp":"2026-06-05 19:43:27"
+    },
+    {
+        "City name":"Paris",
+        "Temperature (C)":16.59,
+        "Weather description":"overcast clouds",
+        "Humidity":63,
+        "Wind speed":0.89,
+        "Timestamp":"2026-06-05 19:43:27"
+    },
+    {
+        "City name":"New York",
+        "Temperature (C)":21.34,
+        "Weather description":"broken clouds",
+        "Humidity":63,
+        "Wind speed":3.13,
+        "Timestamp":"2026-06-05 19:44:28"
+    },
+    {
+        "City name":"London",
+        "Temperature (C)":17.58,
+        "Weather description":"broken clouds",
+        "Humidity":53,
+        "Wind speed":1.79,
+        "Timestamp":"2026-06-05 19:44:29"
+    },
+    {
+        "City name":"Tokyo",
+        "Temperature (C)":16.87,
+        "Weather description":"overcast clouds",
+        "Humidity":81,
+        "Wind speed":1.34,
+        "Timestamp":"2026-06-05 19:44:30"
+    },
+    {
+        "City name":"Sydney",
+        "Temperature (C)":12.95,
+        "Weather description":"broken clouds",
+        "Humidity":65,
+        "Wind speed":0.45,
+        "Timestamp":"2026-06-05 19:44:31"
+    },
+    {
+        "City name":"Paris",
+        "Temperature (C)":16.59,
+        "Weather description":"overcast clouds",
+        "Humidity":63,
+        "Wind speed":0.89,
+        "Timestamp":"2026-06-05 19:44:31"
+    },
+    {
+        "City name":"New York",
+        "Temperature (C)":21.51,
+        "Weather description":"broken clouds",
+        "Humidity":63,
+        "Wind speed":3.13,
+        "Timestamp":"2026-06-05 19:45:32"
+    },
+    {
+        "City name":"London",
+        "Temperature (C)":17.58,
+        "Weather description":"broken clouds",
+        "Humidity":53,
+        "Wind speed":1.79,
+        "Timestamp":"2026-06-05 19:45:33"
+    },
+    {
+        "City name":"Tokyo",
+        "Temperature (C)":16.87,
+        "Weather description":"overcast clouds",
+        "Humidity":81,
+        "Wind speed":1.34,
+        "Timestamp":"2026-06-05 19:45:33"
+    },
+    {
+        "City name":"Sydney",
+        "Temperature (C)":12.95,
+        "Weather description":"broken clouds",
+        "Humidity":65,
+        "Wind speed":0.45,
+        "Timestamp":"2026-06-05 19:45:34"
+    },
+    {
+        "City name":"Paris",
+        "Temperature (C)":16.59,
+        "Weather description":"overcast clouds",
+        "Humidity":63,
+        "Wind speed":0.89,
+        "Timestamp":"2026-06-05 19:45:34"
+    },
+    {
+        "City name":"New York",
+        "Temperature (C)":21.51,
+        "Weather description":"broken clouds",
+        "Humidity":63,
+        "Wind speed":3.13,
+        "Timestamp":"2026-06-05 19:46:35"
+    },
+    {
+        "City name":"London",
+        "Temperature (C)":17.58,
+        "Weather description":"broken clouds",
+        "Humidity":53,
+        "Wind speed":1.79,
+        "Timestamp":"2026-06-05 19:46:36"
+    },
+    {
+        "City name":"Tokyo",
+        "Temperature (C)":16.87,
+        "Weather description":"overcast clouds",
+        "Humidity":81,
+        "Wind speed":1.34,
+        "Timestamp":"2026-06-05 19:46:36"
+    },
+    {
+        "City name":"Sydney",
+        "Temperature (C)":12.95,
+        "Weather description":"broken clouds",
+        "Humidity":65,
+        "Wind speed":0.45,
+        "Timestamp":"2026-06-05 19:46:37"
+    },
+    {
+        "City name":"Paris",
+        "Temperature (C)":16.59,
+        "Weather description":"overcast clouds",
+        "Humidity":63,
+        "Wind speed":0.89,
+        "Timestamp":"2026-06-05 19:46:38"
+    },
+    {
+        "City name":"New York",
+        "Temperature (C)":21.51,
+        "Weather description":"broken clouds",
+        "Humidity":63,
+        "Wind speed":3.13,
+        "Timestamp":"2026-06-05 19:47:38"
+    },
+    {
+        "City name":"London",
+        "Temperature (C)":17.35,
+        "Weather description":"broken clouds",
+        "Humidity":54,
+        "Wind speed":2.24,
+        "Timestamp":"2026-06-05 19:47:39"
+    },
+    {
+        "City name":"Tokyo",
+        "Temperature (C)":16.87,
+        "Weather description":"overcast clouds",
+        "Humidity":81,
+        "Wind speed":1.34,
+        "Timestamp":"2026-06-05 19:47:40"
+    },
+    {
+        "City name":"Sydney",
+        "Temperature (C)":12.95,
+        "Weather description":"broken clouds",
+        "Humidity":65,
+        "Wind speed":0.45,
+        "Timestamp":"2026-06-05 19:47:40"
+    },
+    {
+        "City name":"Paris",
+        "Temperature (C)":16.59,
+        "Weather description":"overcast clouds",
+        "Humidity":63,
+        "Wind speed":0.89,
+        "Timestamp":"2026-06-05 19:47:41"
+    },
+    {
+        "City name":"New York",
+        "Temperature (C)":21.51,
+        "Weather description":"broken clouds",
+        "Humidity":63,
+        "Wind speed":3.13,
+        "Timestamp":"2026-06-05 19:48:42"
+    },
+    {
+        "City name":"London",
+        "Temperature (C)":17.35,
+        "Weather description":"broken clouds",
+        "Humidity":54,
+        "Wind speed":2.24,
+        "Timestamp":"2026-06-05 19:48:43"
+    },
+    {
+        "City name":"Tokyo",
+        "Temperature (C)":16.87,
+        "Weather description":"overcast clouds",
+        "Humidity":81,
+        "Wind speed":1.34,
+        "Timestamp":"2026-06-05 19:48:44"
+    },
+    {
+        "City name":"Sydney",
+        "Temperature (C)":12.95,
+        "Weather description":"broken clouds",
+        "Humidity":65,
+        "Wind speed":0.45,
+        "Timestamp":"2026-06-05 19:48:44"
+    },
+    {
+        "City name":"Paris",
+        "Temperature (C)":16.59,
+        "Weather description":"overcast clouds",
+        "Humidity":63,
+        "Wind speed":0.89,
+        "Timestamp":"2026-06-05 19:48:45"
+    },
+    {
+        "City name":"New York",
+        "Temperature (C)":21.51,
+        "Weather description":"broken clouds",
+        "Humidity":63,
+        "Wind speed":3.13,
+        "Timestamp":"2026-06-05 19:49:45"
+    },
+    {
+        "City name":"London",
+        "Temperature (C)":17.35,
+        "Weather description":"broken clouds",
+        "Humidity":54,
+        "Wind speed":2.24,
+        "Timestamp":"2026-06-05 19:49:46"
+    },
+    {
+        "City name":"Tokyo",
+        "Temperature (C)":16.87,
+        "Weather description":"overcast clouds",
+        "Humidity":81,
+        "Wind speed":1.34,
+        "Timestamp":"2026-06-05 19:49:47"
+    },
+    {
+        "City name":"Sydney",
+        "Temperature (C)":12.95,
+        "Weather description":"broken clouds",
+        "Humidity":65,
+        "Wind speed":0.45,
+        "Timestamp":"2026-06-05 19:49:47"
+    },
+    {
+        "City name":"Paris",
+        "Temperature (C)":16.66,
+        "Weather description":"overcast clouds",
+        "Humidity":64,
+        "Wind speed":0.89,
+        "Timestamp":"2026-06-05 19:49:48"
+    },
+    {
+        "City name":"New York",
+        "Temperature (C)":21.51,
+        "Weather description":"broken clouds",
+        "Humidity":63,
+        "Wind speed":3.13,
+        "Timestamp":"2026-06-05 19:50:49"
+    },
+    {
+        "City name":"London",
+        "Temperature (C)":17.35,
+        "Weather description":"broken clouds",
+        "Humidity":54,
+        "Wind speed":2.24,
+        "Timestamp":"2026-06-05 19:50:49"
+    },
+    {
+        "City name":"Tokyo",
+        "Temperature (C)":16.87,
+        "Weather description":"overcast clouds",
+        "Humidity":81,
+        "Wind speed":1.34,
+        "Timestamp":"2026-06-05 19:50:50"
+    },
+    {
+        "City name":"Sydney",
+        "Temperature (C)":12.95,
+        "Weather description":"broken clouds",
+        "Humidity":65,
+        "Wind speed":0.45,
+        "Timestamp":"2026-06-05 19:50:50"
+    },
+    {
+        "City name":"Paris",
+        "Temperature (C)":16.66,
+        "Weather description":"overcast clouds",
+        "Humidity":64,
+        "Wind speed":0.89,
+        "Timestamp":"2026-06-05 19:50:51"
+    },
+    {
+        "City name":"New York",
+        "Temperature (C)":21.51,
+        "Weather description":"broken clouds",
+        "Humidity":63,
+        "Wind speed":3.13,
+        "Timestamp":"2026-06-05 19:51:52"
+    },
+    {
+        "City name":"London",
+        "Temperature (C)":17.35,
+        "Weather description":"broken clouds",
+        "Humidity":54,
+        "Wind speed":2.24,
+        "Timestamp":"2026-06-05 19:51:52"
+    },
+    {
+        "City name":"Tokyo",
+        "Temperature (C)":16.87,
+        "Weather description":"overcast clouds",
+        "Humidity":81,
+        "Wind speed":1.34,
+        "Timestamp":"2026-06-05 19:51:53"
+    },
+    {
+        "City name":"Sydney",
+        "Temperature (C)":12.95,
+        "Weather description":"broken clouds",
+        "Humidity":65,
+        "Wind speed":0.45,
+        "Timestamp":"2026-06-05 19:51:53"
+    },
+    {
+        "City name":"Paris",
+        "Temperature (C)":16.66,
+        "Weather description":"overcast clouds",
+        "Humidity":64,
+        "Wind speed":0.89,
+        "Timestamp":"2026-06-05 19:51:54"
+    },
+    {
+        "City name":"New York",
+        "Temperature (C)":21.51,
+        "Weather description":"broken clouds",
+        "Humidity":63,
+        "Wind speed":3.13,
+        "Timestamp":"2026-06-05 19:52:55"
+    },
+    {
+        "City name":"London",
+        "Temperature (C)":17.35,
+        "Weather description":"broken clouds",
+        "Humidity":54,
+        "Wind speed":2.24,
+        "Timestamp":"2026-06-05 19:52:56"
+    },
+    {
+        "City name":"Tokyo",
+        "Temperature (C)":16.87,
+        "Weather description":"overcast clouds",
+        "Humidity":81,
+        "Wind speed":1.34,
+        "Timestamp":"2026-06-05 19:52:56"
+    },
+    {
+        "City name":"Sydney",
+        "Temperature (C)":12.95,
+        "Weather description":"broken clouds",
+        "Humidity":65,
+        "Wind speed":0.45,
+        "Timestamp":"2026-06-05 19:52:57"
+    },
+    {
+        "City name":"Paris",
+        "Temperature (C)":16.66,
+        "Weather description":"overcast clouds",
+        "Humidity":64,
+        "Wind speed":0.89,
+        "Timestamp":"2026-06-05 19:52:58"
+    },
+    {
+        "City name":"New York",
+        "Temperature (C)":21.51,
+        "Weather description":"broken clouds",
+        "Humidity":63,
+        "Wind speed":3.13,
+        "Timestamp":"2026-06-05 19:53:59"
+    },
+    {
+        "City name":"London",
+        "Temperature (C)":17.35,
+        "Weather description":"broken clouds",
+        "Humidity":54,
+        "Wind speed":2.24,
+        "Timestamp":"2026-06-05 19:53:59"
+    },
+    {
+        "City name":"Tokyo",
+        "Temperature (C)":16.87,
+        "Weather description":"overcast clouds",
+        "Humidity":81,
+        "Wind speed":1.34,
+        "Timestamp":"2026-06-05 19:54:00"
+    },
+    {
+        "City name":"Sydney",
+        "Temperature (C)":12.75,
+        "Weather description":"broken clouds",
+        "Humidity":65,
+        "Wind speed":0.45,
+        "Timestamp":"2026-06-05 19:54:00"
+    },
+    {
+        "City name":"Paris",
+        "Temperature (C)":16.66,
+        "Weather description":"overcast clouds",
+        "Humidity":64,
+        "Wind speed":0.89,
+        "Timestamp":"2026-06-05 19:54:01"
+    },
+    {
+        "City name":"New York",
+        "Temperature (C)":21.51,
+        "Weather description":"broken clouds",
+        "Humidity":63,
+        "Wind speed":3.13,
+        "Timestamp":"2026-06-05 19:55:02"
+    },
+    {
+        "City name":"London",
+        "Temperature (C)":17.35,
+        "Weather description":"broken clouds",
+        "Humidity":54,
+        "Wind speed":2.24,
+        "Timestamp":"2026-06-05 19:55:02"
+    },
+    {
+        "City name":"Tokyo",
+        "Temperature (C)":16.93,
+        "Weather description":"overcast clouds",
+        "Humidity":82,
+        "Wind speed":0.45,
+        "Timestamp":"2026-06-05 19:55:03"
+    },
+    {
+        "City name":"Sydney",
+        "Temperature (C)":12.75,
+        "Weather description":"broken clouds",
+        "Humidity":65,
+        "Wind speed":0.45,
+        "Timestamp":"2026-06-05 19:55:03"
+    },
+    {
+        "City name":"Paris",
+        "Temperature (C)":16.66,
+        "Weather description":"overcast clouds",
+        "Humidity":64,
+        "Wind speed":0.89,
+        "Timestamp":"2026-06-05 19:55:04"
+    },
+    {
+        "City name":"New York",
+        "Temperature (C)":21.58,
+        "Weather description":"broken clouds",
+        "Humidity":61,
+        "Wind speed":2.68,
+        "Timestamp":"2026-06-05 19:56:05"
+    },
+    {
+        "City name":"London",
+        "Temperature (C)":17.35,
+        "Weather description":"broken clouds",
+        "Humidity":54,
+        "Wind speed":2.24,
+        "Timestamp":"2026-06-05 19:56:06"
+    },
+    {
+        "City name":"Tokyo",
+        "Temperature (C)":16.93,
+        "Weather description":"overcast clouds",
+        "Humidity":82,
+        "Wind speed":0.45,
+        "Timestamp":"2026-06-05 19:56:06"
+    },
+    {
+        "City name":"Sydney",
+        "Temperature (C)":12.75,
+        "Weather description":"broken clouds",
+        "Humidity":65,
+        "Wind speed":0.45,
+        "Timestamp":"2026-06-05 19:56:07"
+    },
+    {
+        "City name":"Paris",
+        "Temperature (C)":16.66,
+        "Weather description":"overcast clouds",
+        "Humidity":64,
+        "Wind speed":0.89,
+        "Timestamp":"2026-06-05 19:56:08"
+    },
+    {
+        "City name":"New York",
+        "Temperature (C)":21.58,
+        "Weather description":"broken clouds",
+        "Humidity":61,
+        "Wind speed":2.68,
+        "Timestamp":"2026-06-05 19:57:08"
+    },
+    {
+        "City name":"London",
+        "Temperature (C)":17.55,
+        "Weather description":"broken clouds",
+        "Humidity":52,
+        "Wind speed":3.58,
+        "Timestamp":"2026-06-05 19:57:09"
+    },
+    {
+        "City name":"Tokyo",
+        "Temperature (C)":16.93,
+        "Weather description":"overcast clouds",
+        "Humidity":82,
+        "Wind speed":0.45,
+        "Timestamp":"2026-06-05 19:57:10"
+    },
+    {
+        "City name":"Sydney",
+        "Temperature (C)":12.75,
+        "Weather description":"broken clouds",
+        "Humidity":65,
+        "Wind speed":0.45,
+        "Timestamp":"2026-06-05 19:57:10"
+    },
+    {
+        "City name":"Paris",
+        "Temperature (C)":16.66,
+        "Weather description":"overcast clouds",
+        "Humidity":64,
+        "Wind speed":0.89,
+        "Timestamp":"2026-06-05 19:57:11"
+    }
+]
