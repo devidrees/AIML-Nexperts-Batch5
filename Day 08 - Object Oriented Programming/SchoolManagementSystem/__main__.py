@@ -1,14 +1,15 @@
 # import models
-import manager
-
+import manager # code reuse
 print("Welcome to the School Management System")
 
 while True:
+    print("---------------")
     print("1 - to Add Student")
     print("2 - to View Students")
     print("3 - to Add Teacher")
     print("4 - to View Teachers")
     print("q - to Exit")
+    print("---------------")
 
     choice = input("enter choice:") # input function automatically only takes strings
     # if 1 is entered, it will be "1"
@@ -24,6 +25,7 @@ while True:
 
     elif choice == "4":
         manager.display_teachers()
+        
     elif choice == "q":
         break
     else:
@@ -31,3 +33,4 @@ while True:
 
 
 
+    

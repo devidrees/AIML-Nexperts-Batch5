@@ -1,6 +1,4 @@
 # Create classes for relevant roles
-
-
 # Student Teacher OtherStaff Janitor
 
 
@@ -14,7 +12,7 @@ class Person:
         self.age = age
 
     def get_details(self):
-        return f"Name: {self.Name}, Age: {self.age}"
+        return f"Name: {self.name}, Age: {self.age}"
     
 
 # students
@@ -22,20 +20,19 @@ class Student(Person):
     def __init__(self, name, age, StudentID):
         super().__init__(name, age)
         self.StudentID = StudentID
-
         self.grades = []
 
     # add grades
     def add_grade(self, grade):
         self.grades.append(grade)
     
-
     # polymorphism -- 
     def get_details(self):
-        print(f"Name: {self.Name}, Student ID: {self.StudentID}")
-        return self.Name, self.StudentID
+        print("--------------------")
+        print(f"| Name: {self.name} | Student ID: {self.StudentID} |")
+        print("--------------------")
+        return self.name, self.StudentID
 
-# object.get_details()
 
 
 # Teacher
@@ -52,7 +49,10 @@ class Teacher(Person):
     
     # polymorphism -- 
     def get_details(self):
-        return f"Name: {self.Name}, Teacher ID: {self.TeacherID}"
+        print("--------------------")
+        print(f"| Name: {self.name} | Student ID: {self.TeacherID} |")
+        print("--------------------")
+        return self.name, self.TeacherID
     
 if __name__ == "__main__":
     # this will only run when you execute the greet.py file

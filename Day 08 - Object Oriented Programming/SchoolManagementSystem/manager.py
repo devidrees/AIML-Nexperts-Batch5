@@ -9,7 +9,7 @@ from models import Teacher
 
 
 # a list to store students
-students = []
+students = [] # will store objects of student class
 
 def add_student():
     name = input("enter name")
@@ -20,15 +20,18 @@ def add_student():
 
     # add student to the list
     students.append(new_student)
+
     print("---"*5)
     print(f"Student {name} added successfully")
     print("---"*5)
 
 
 def display_students():
-    for student in students:
+    for student in students: # each student is an object
         print("---------------------")
-        Student.get_details(student)
+        
+        # objectName.method()
+        student.get_details() #XXXXX
 
 
 
@@ -49,10 +52,10 @@ def add_teacher():
     # add teacher to the list
     teachers.append(new_teacher)
 
-    print("Student {name} added successfully")
+    print(f"Teacher {name} added successfully")
 
 
 def display_teachers():
     for teacher in teachers:
         print("---------------------")
-        Teacher.get_details()
+        teacher.get_details()
