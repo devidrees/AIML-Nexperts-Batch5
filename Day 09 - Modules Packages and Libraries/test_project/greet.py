@@ -8,4 +8,11 @@ def evening(name = "Othello"):
 def morning(name = "Shakesparey"):
     print(f"Good Morning, salamat pagi {name}!")
  
-hello('Hariz')
+
+if __name__ == "__main__":
+    # this will only run when you execute the greet.py file
+    # this function --
+    hello('Hariz')
+    hello('Idrees')
+    hello("Nomie")
+
