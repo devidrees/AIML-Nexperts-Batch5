@@ -1,0 +1,8 @@
+
+pillow
+requests
+numpy
+pandas
+matplotlib
+seaborn
+plotly
