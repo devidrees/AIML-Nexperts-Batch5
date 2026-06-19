@@ -15,6 +15,21 @@ CREATE TABLE IF NOT EXISTS Vehicle_Parking(
 
 INSERT INTO
 Vehicle_Parking(VehicleID, ParkingZone) VALUES
-(7, 'Zone C');
+(7, 'Zone C'),
+(1, 'Zone A'),
+(2, 'Zone B'),
+(3, 'Zone C'),
+(4, 'Zone A'),
+(5, 'Zone B'),
+(6, 'Zone C'),
+(8, 'Zone A');
+
+INSERT INTO
+Vehicle_Parking(VehicleID, ParkingZone) VALUES
+(5, 'Zone B');
+
+DELETE FROM Vehicle_Parking
+WHERE permitid = 1;
+SELECT * FROM Vehicle_Parking;
 
 SELECT * FROM vehicle_parking
