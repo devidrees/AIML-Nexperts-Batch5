@@ -58,7 +58,18 @@ WHERE make_model = 'McLaren S';  -- condition to target exact row
 DELETE FROM Vehicles
 WHERE id = 8;
 
+
+-- DEFAULT CONSTRAINT
+-- we have defualt = 4 for wheels and doors
+-- so we need not insert them
+INSERT INTO
+Vehicles(id, make_model, type) VALUES
+(8,'McLaren S', 'Sports');
+
+
 -- DELETE AN ENTIRE TABLE
 --DROP TABLE Vehicles
+
+
 
 SELECT * FROM vehicles;

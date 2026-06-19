@@ -1,4 +1,3 @@
-
 -- only RUN if the table does not exist
 -- 
 CREATE TABLE IF NOT EXISTS Vehicle_Parking(
