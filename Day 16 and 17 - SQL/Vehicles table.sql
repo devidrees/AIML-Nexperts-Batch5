@@ -70,6 +70,5 @@ Vehicles(id, make_model, type) VALUES
 -- DELETE AN ENTIRE TABLE
 --DROP TABLE Vehicles
 
-
-
 SELECT * FROM vehicles;
+
