@@ -145,7 +145,73 @@ GROUP BY type
 HAVING COUNT(*) > 2
 ORDER BY type;
 
+SELECT * FROM vehicles;
+SELECT * FROM vehicle_parking;
 
-SELECT *
-FROM vehicle_parking;
+SELECT
+	vehicles.make_model,
+	vehicles.wheels,
+	vehicle_parking.parkingzone
+FROM vehicles
+INNER JOIN vehicle_parking ON vehicles.ID = vehicle_parking.VehicleId;
+;
 
+
+SELECT
+	v.make_model,
+	v.wheels,
+	vp.parkingzone
+FROM vehicle_parking vp
+INNER JOIN vehicles v ON v.ID=vp.vehicleId
+;
+
+
+SELECT
+	vehicles.make_model,
+	vehicles.wheels,
+	vehicle_parking.parkingzone
+FROM vehicles
+LEFT JOIN vehicle_parking ON vehicles.ID = vehicle_parking.VehicleId;
+;
+
+-------
+SELECT v.Make_Model,
+       vp.ParkingZone
+FROM vehicle_parking vp
+INNER JOIN vehicles v ON v.ID = vp.VehicleID
+WHERE ParkingZone = 'Zone B';
+
+SELECT 
+	v.Type,
+    COUNT(*) AS Permit_issued
+FROM Vehicles v
+INNER JOIN vehicle_parking vp ON v.ID = vp.VehicleID
+GROUP BY v.Type
+ORDER BY Permit_issued DESC;
+
+---OPTIMIZED
+SELECT 
+	v.Type,
+    COUNT(vp.permitid) AS Permit_issued
+FROM Vehicles v
+INNER JOIN vehicle_parking vp ON v.ID = vp.VehicleID
+GROUP BY v.Type
+ORDER BY Permit_issued DESC;
+
+
+------
+SELECT ROUND(AVG(doors),2) FROM vehicles;
+
+SELECT
+	make_model, doors
+FROM vehicles
+WHERE doors > (SELECT ROUND(AVG(doors),2) FROM vehicles);
+
+SELECT
+	make_model, type
+FROM Vehicles
+WHERE ID IN (
+			SELECT vehicleID
+			FROM vehicle_parking
+			WHERE ParkingZone = 'Zone C'
+			);
