@@ -12,3 +12,38 @@
 -- --    Calculate the SUM() of the Doors. 
 -- --    Only keep groups where the total sum of doors is strictly greater than 2. 
 -- --    Finally, sort the results so the type with the most total doors is at the top.
+
+
+
+-- Q1: 
+SELECT
+	 type,
+	 MAX(wheels) AS Max_Wheels
+FROM vehicles
+GROUP BY type
+ORDER BY type;
+ 
+--- Q2: 
+SELECT parkingzone,
+	COUNT(*) AS Total_Permits
+FROM vehicle_parking
+GROUP BY parkingzone
+ORDER BY Total_Permits DESC;
+ 
+--- A3:
+SELECT vehicleID,
+		COUNT(*) AS Total_TimesParked
+FROM vehicle_parking
+GROUP BY vehicleID
+HAVING COUNT(*) >= 2
+ORDER BY vehicleID;
+ 
+--- A4:
+SELECT type,
+	SUM(doors) AS sum_doors
+FROM vehicles
+GROUP BY type
+HAVING SUM(doors) > 2
+ORDER BY SUM(doors) DESC;
+
+
