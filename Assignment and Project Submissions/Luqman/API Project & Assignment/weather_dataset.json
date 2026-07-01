@@ -1,0 +1,82 @@
+[
+    {
+        "city":"New York",
+        "temperature_celsius":22.55,
+        "weather_description":"clear sky",
+        "humidity":77,
+        "wind_speed":3.13,
+        "timestamp":"2026-06-29 09:50:11"
+    },
+    {
+        "city":"London",
+        "temperature_celsius":15.08,
+        "weather_description":"clear sky",
+        "humidity":69,
+        "wind_speed":1.34,
+        "timestamp":"2026-06-29 09:50:11"
+    },
+    {
+        "city":"Tokyo",
+        "temperature_celsius":22.38,
+        "weather_description":"overcast clouds",
+        "humidity":90,
+        "wind_speed":1.86,
+        "timestamp":"2026-06-29 09:50:11"
+    },
+    {
+        "city":"Sydney",
+        "temperature_celsius":14.98,
+        "weather_description":"overcast clouds",
+        "humidity":73,
+        "wind_speed":0.45,
+        "timestamp":"2026-06-29 09:50:11"
+    },
+    {
+        "city":"Paris",
+        "temperature_celsius":19.15,
+        "weather_description":"overcast clouds",
+        "humidity":64,
+        "wind_speed":2.68,
+        "timestamp":"2026-06-29 09:50:11"
+    },
+    {
+        "city":"New York",
+        "temperature_celsius":22.55,
+        "weather_description":"clear sky",
+        "humidity":77,
+        "wind_speed":3.13,
+        "timestamp":"2026-06-29 09:51:11"
+    },
+    {
+        "city":"London",
+        "temperature_celsius":15.08,
+        "weather_description":"clear sky",
+        "humidity":69,
+        "wind_speed":1.34,
+        "timestamp":"2026-06-29 09:51:12"
+    },
+    {
+        "city":"Tokyo",
+        "temperature_celsius":22.38,
+        "weather_description":"overcast clouds",
+        "humidity":90,
+        "wind_speed":1.86,
+        "timestamp":"2026-06-29 09:51:12"
+    },
+    {
+        "city":"Sydney",
+        "temperature_celsius":14.7,
+        "weather_description":"overcast clouds",
+        "humidity":72,
+        "wind_speed":1.42,
+        "timestamp":"2026-06-29 09:51:12"
+    },
+    {
+        "city":"Paris",
+        "temperature_celsius":19.15,
+        "weather_description":"overcast clouds",
+        "humidity":64,
+        "wind_speed":2.68,
+        "timestamp":"2026-06-29 09:51:12"
+    }
+]
