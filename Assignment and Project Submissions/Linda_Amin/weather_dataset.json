@@ -1,0 +1,602 @@
+[
+    {
+        "City":"New York",
+        "Temperature_Celsius":26.15,
+        "Weather_Description":"clear sky",
+        "Humidity_Percentage":69,
+        "Wind_Speed_mps":3.58,
+        "Timestamp":"2026-07-01 20:41:57"
+    },
+    {
+        "City":"London",
+        "Temperature_Celsius":24.15,
+        "Weather_Description":"scattered clouds",
+        "Humidity_Percentage":50,
+        "Wind_Speed_mps":1.79,
+        "Timestamp":"2026-07-01 20:41:58"
+    },
+    {
+        "City":"Tokyo",
+        "Temperature_Celsius":24.38,
+        "Weather_Description":"moderate rain",
+        "Humidity_Percentage":86,
+        "Wind_Speed_mps":0.45,
+        "Timestamp":"2026-07-01 20:41:58"
+    },
+    {
+        "City":"Sydney",
+        "Temperature_Celsius":18.78,
+        "Weather_Description":"light rain",
+        "Humidity_Percentage":66,
+        "Wind_Speed_mps":2.24,
+        "Timestamp":"2026-07-01 20:41:59"
+    },
+    {
+        "City":"Paris",
+        "Temperature_Celsius":25.41,
+        "Weather_Description":"scattered clouds",
+        "Humidity_Percentage":50,
+        "Wind_Speed_mps":4.54,
+        "Timestamp":"2026-07-01 20:41:59"
+    },
+    {
+        "City":"New York",
+        "Temperature_Celsius":26.15,
+        "Weather_Description":"clear sky",
+        "Humidity_Percentage":69,
+        "Wind_Speed_mps":3.58,
+        "Timestamp":"2026-07-01 20:42:04"
+    },
+    {
+        "City":"London",
+        "Temperature_Celsius":24.15,
+        "Weather_Description":"scattered clouds",
+        "Humidity_Percentage":50,
+        "Wind_Speed_mps":1.79,
+        "Timestamp":"2026-07-01 20:42:05"
+    },
+    {
+        "City":"Tokyo",
+        "Temperature_Celsius":24.38,
+        "Weather_Description":"moderate rain",
+        "Humidity_Percentage":86,
+        "Wind_Speed_mps":0.45,
+        "Timestamp":"2026-07-01 20:42:05"
+    },
+    {
+        "City":"Sydney",
+        "Temperature_Celsius":18.78,
+        "Weather_Description":"light rain",
+        "Humidity_Percentage":66,
+        "Wind_Speed_mps":2.24,
+        "Timestamp":"2026-07-01 20:42:06"
+    },
+    {
+        "City":"Paris",
+        "Temperature_Celsius":25.41,
+        "Weather_Description":"scattered clouds",
+        "Humidity_Percentage":50,
+        "Wind_Speed_mps":4.54,
+        "Timestamp":"2026-07-01 20:42:06"
+    },
+    {
+        "City":"New York",
+        "Temperature_Celsius":26.15,
+        "Weather_Description":"clear sky",
+        "Humidity_Percentage":69,
+        "Wind_Speed_mps":3.58,
+        "Timestamp":"2026-07-01 20:42:07"
+    },
+    {
+        "City":"London",
+        "Temperature_Celsius":24.15,
+        "Weather_Description":"scattered clouds",
+        "Humidity_Percentage":50,
+        "Wind_Speed_mps":1.79,
+        "Timestamp":"2026-07-01 20:42:07"
+    },
+    {
+        "City":"Tokyo",
+        "Temperature_Celsius":24.38,
+        "Weather_Description":"moderate rain",
+        "Humidity_Percentage":86,
+        "Wind_Speed_mps":0.45,
+        "Timestamp":"2026-07-01 20:42:08"
+    },
+    {
+        "City":"Sydney",
+        "Temperature_Celsius":18.78,
+        "Weather_Description":"light rain",
+        "Humidity_Percentage":66,
+        "Wind_Speed_mps":2.24,
+        "Timestamp":"2026-07-01 20:42:08"
+    },
+    {
+        "City":"Paris",
+        "Temperature_Celsius":25.41,
+        "Weather_Description":"scattered clouds",
+        "Humidity_Percentage":50,
+        "Wind_Speed_mps":4.54,
+        "Timestamp":"2026-07-01 20:42:08"
+    },
+    {
+        "City":"New York",
+        "Temperature_Celsius":26.15,
+        "Weather_Description":"clear sky",
+        "Humidity_Percentage":69,
+        "Wind_Speed_mps":3.58,
+        "Timestamp":"2026-07-01 20:42:09"
+    },
+    {
+        "City":"London",
+        "Temperature_Celsius":24.15,
+        "Weather_Description":"scattered clouds",
+        "Humidity_Percentage":50,
+        "Wind_Speed_mps":1.79,
+        "Timestamp":"2026-07-01 20:42:09"
+    },
+    {
+        "City":"Tokyo",
+        "Temperature_Celsius":24.38,
+        "Weather_Description":"moderate rain",
+        "Humidity_Percentage":86,
+        "Wind_Speed_mps":0.45,
+        "Timestamp":"2026-07-01 20:42:10"
+    },
+    {
+        "City":"Sydney",
+        "Temperature_Celsius":18.78,
+        "Weather_Description":"light rain",
+        "Humidity_Percentage":66,
+        "Wind_Speed_mps":2.24,
+        "Timestamp":"2026-07-01 20:42:10"
+    },
+    {
+        "City":"Paris",
+        "Temperature_Celsius":25.41,
+        "Weather_Description":"scattered clouds",
+        "Humidity_Percentage":50,
+        "Wind_Speed_mps":4.54,
+        "Timestamp":"2026-07-01 20:42:11"
+    },
+    {
+        "City":"New York",
+        "Temperature_Celsius":26.15,
+        "Weather_Description":"clear sky",
+        "Humidity_Percentage":69,
+        "Wind_Speed_mps":3.58,
+        "Timestamp":"2026-07-01 20:42:11"
+    },
+    {
+        "City":"London",
+        "Temperature_Celsius":24.15,
+        "Weather_Description":"scattered clouds",
+        "Humidity_Percentage":50,
+        "Wind_Speed_mps":1.79,
+        "Timestamp":"2026-07-01 20:42:11"
+    },
+    {
+        "City":"Tokyo",
+        "Temperature_Celsius":24.38,
+        "Weather_Description":"moderate rain",
+        "Humidity_Percentage":86,
+        "Wind_Speed_mps":0.45,
+        "Timestamp":"2026-07-01 20:42:12"
+    },
+    {
+        "City":"Sydney",
+        "Temperature_Celsius":18.78,
+        "Weather_Description":"light rain",
+        "Humidity_Percentage":66,
+        "Wind_Speed_mps":2.24,
+        "Timestamp":"2026-07-01 20:42:12"
+    },
+    {
+        "City":"Paris",
+        "Temperature_Celsius":25.41,
+        "Weather_Description":"scattered clouds",
+        "Humidity_Percentage":50,
+        "Wind_Speed_mps":4.54,
+        "Timestamp":"2026-07-01 20:42:13"
+    },
+    {
+        "City":"New York",
+        "Temperature_Celsius":26.15,
+        "Weather_Description":"clear sky",
+        "Humidity_Percentage":69,
+        "Wind_Speed_mps":3.58,
+        "Timestamp":"2026-07-01 20:42:13"
+    },
+    {
+        "City":"London",
+        "Temperature_Celsius":24.15,
+        "Weather_Description":"scattered clouds",
+        "Humidity_Percentage":50,
+        "Wind_Speed_mps":1.79,
+        "Timestamp":"2026-07-01 20:42:13"
+    },
+    {
+        "City":"Tokyo",
+        "Temperature_Celsius":24.38,
+        "Weather_Description":"moderate rain",
+        "Humidity_Percentage":86,
+        "Wind_Speed_mps":0.45,
+        "Timestamp":"2026-07-01 20:42:14"
+    },
+    {
+        "City":"Sydney",
+        "Temperature_Celsius":18.78,
+        "Weather_Description":"light rain",
+        "Humidity_Percentage":66,
+        "Wind_Speed_mps":2.24,
+        "Timestamp":"2026-07-01 20:42:14"
+    },
+    {
+        "City":"Paris",
+        "Temperature_Celsius":25.41,
+        "Weather_Description":"scattered clouds",
+        "Humidity_Percentage":50,
+        "Wind_Speed_mps":4.54,
+        "Timestamp":"2026-07-01 20:42:15"
+    },
+    {
+        "City":"New York",
+        "Temperature_Celsius":26.15,
+        "Weather_Description":"clear sky",
+        "Humidity_Percentage":69,
+        "Wind_Speed_mps":3.58,
+        "Timestamp":"2026-07-01 20:42:15"
+    },
+    {
+        "City":"London",
+        "Temperature_Celsius":24.15,
+        "Weather_Description":"scattered clouds",
+        "Humidity_Percentage":50,
+        "Wind_Speed_mps":1.79,
+        "Timestamp":"2026-07-01 20:42:15"
+    },
+    {
+        "City":"Tokyo",
+        "Temperature_Celsius":24.38,
+        "Weather_Description":"moderate rain",
+        "Humidity_Percentage":86,
+        "Wind_Speed_mps":0.45,
+        "Timestamp":"2026-07-01 20:42:16"
+    },
+    {
+        "City":"Sydney",
+        "Temperature_Celsius":18.78,
+        "Weather_Description":"light rain",
+        "Humidity_Percentage":66,
+        "Wind_Speed_mps":2.24,
+        "Timestamp":"2026-07-01 20:42:16"
+    },
+    {
+        "City":"Paris",
+        "Temperature_Celsius":25.41,
+        "Weather_Description":"scattered clouds",
+        "Humidity_Percentage":50,
+        "Wind_Speed_mps":4.54,
+        "Timestamp":"2026-07-01 20:42:17"
+    },
+    {
+        "City":"New York",
+        "Temperature_Celsius":26.15,
+        "Weather_Description":"clear sky",
+        "Humidity_Percentage":69,
+        "Wind_Speed_mps":3.58,
+        "Timestamp":"2026-07-01 20:42:17"
+    },
+    {
+        "City":"London",
+        "Temperature_Celsius":24.15,
+        "Weather_Description":"scattered clouds",
+        "Humidity_Percentage":50,
+        "Wind_Speed_mps":1.79,
+        "Timestamp":"2026-07-01 20:42:17"
+    },
+    {
+        "City":"Tokyo",
+        "Temperature_Celsius":24.38,
+        "Weather_Description":"moderate rain",
+        "Humidity_Percentage":86,
+        "Wind_Speed_mps":0.45,
+        "Timestamp":"2026-07-01 20:42:18"
+    },
+    {
+        "City":"Sydney",
+        "Temperature_Celsius":18.78,
+        "Weather_Description":"light rain",
+        "Humidity_Percentage":66,
+        "Wind_Speed_mps":2.24,
+        "Timestamp":"2026-07-01 20:42:18"
+    },
+    {
+        "City":"Paris",
+        "Temperature_Celsius":25.41,
+        "Weather_Description":"scattered clouds",
+        "Humidity_Percentage":50,
+        "Wind_Speed_mps":4.54,
+        "Timestamp":"2026-07-01 20:42:19"
+    },
+    {
+        "City":"New York",
+        "Temperature_Celsius":26.15,
+        "Weather_Description":"clear sky",
+        "Humidity_Percentage":69,
+        "Wind_Speed_mps":3.58,
+        "Timestamp":"2026-07-01 20:42:19"
+    },
+    {
+        "City":"London",
+        "Temperature_Celsius":24.15,
+        "Weather_Description":"scattered clouds",
+        "Humidity_Percentage":50,
+        "Wind_Speed_mps":1.79,
+        "Timestamp":"2026-07-01 20:42:19"
+    },
+    {
+        "City":"Tokyo",
+        "Temperature_Celsius":24.38,
+        "Weather_Description":"moderate rain",
+        "Humidity_Percentage":86,
+        "Wind_Speed_mps":0.45,
+        "Timestamp":"2026-07-01 20:42:20"
+    },
+    {
+        "City":"Sydney",
+        "Temperature_Celsius":18.78,
+        "Weather_Description":"light rain",
+        "Humidity_Percentage":66,
+        "Wind_Speed_mps":2.24,
+        "Timestamp":"2026-07-01 20:42:20"
+    },
+    {
+        "City":"Paris",
+        "Temperature_Celsius":25.41,
+        "Weather_Description":"scattered clouds",
+        "Humidity_Percentage":50,
+        "Wind_Speed_mps":4.54,
+        "Timestamp":"2026-07-01 20:42:21"
+    },
+    {
+        "City":"New York",
+        "Temperature_Celsius":26.15,
+        "Weather_Description":"clear sky",
+        "Humidity_Percentage":69,
+        "Wind_Speed_mps":3.58,
+        "Timestamp":"2026-07-01 20:42:21"
+    },
+    {
+        "City":"London",
+        "Temperature_Celsius":24.15,
+        "Weather_Description":"scattered clouds",
+        "Humidity_Percentage":50,
+        "Wind_Speed_mps":1.79,
+        "Timestamp":"2026-07-01 20:42:21"
+    },
+    {
+        "City":"Tokyo",
+        "Temperature_Celsius":24.38,
+        "Weather_Description":"moderate rain",
+        "Humidity_Percentage":86,
+        "Wind_Speed_mps":0.45,
+        "Timestamp":"2026-07-01 20:42:22"
+    },
+    {
+        "City":"Sydney",
+        "Temperature_Celsius":18.78,
+        "Weather_Description":"light rain",
+        "Humidity_Percentage":66,
+        "Wind_Speed_mps":2.24,
+        "Timestamp":"2026-07-01 20:42:22"
+    },
+    {
+        "City":"Paris",
+        "Temperature_Celsius":25.41,
+        "Weather_Description":"scattered clouds",
+        "Humidity_Percentage":50,
+        "Wind_Speed_mps":4.54,
+        "Timestamp":"2026-07-01 20:42:22"
+    },
+    {
+        "City":"New York",
+        "Temperature_Celsius":26.15,
+        "Weather_Description":"clear sky",
+        "Humidity_Percentage":69,
+        "Wind_Speed_mps":3.58,
+        "Timestamp":"2026-07-01 20:42:23"
+    },
+    {
+        "City":"London",
+        "Temperature_Celsius":24.15,
+        "Weather_Description":"scattered clouds",
+        "Humidity_Percentage":50,
+        "Wind_Speed_mps":1.79,
+        "Timestamp":"2026-07-01 20:42:23"
+    },
+    {
+        "City":"Tokyo",
+        "Temperature_Celsius":24.38,
+        "Weather_Description":"moderate rain",
+        "Humidity_Percentage":86,
+        "Wind_Speed_mps":0.45,
+        "Timestamp":"2026-07-01 20:42:24"
+    },
+    {
+        "City":"Sydney",
+        "Temperature_Celsius":18.78,
+        "Weather_Description":"light rain",
+        "Humidity_Percentage":66,
+        "Wind_Speed_mps":2.24,
+        "Timestamp":"2026-07-01 20:42:24"
+    },
+    {
+        "City":"Paris",
+        "Temperature_Celsius":25.41,
+        "Weather_Description":"scattered clouds",
+        "Humidity_Percentage":50,
+        "Wind_Speed_mps":4.54,
+        "Timestamp":"2026-07-01 20:42:24"
+    },
+    {
+        "City":"New York",
+        "Temperature_Celsius":26.15,
+        "Weather_Description":"clear sky",
+        "Humidity_Percentage":69,
+        "Wind_Speed_mps":3.58,
+        "Timestamp":"2026-07-01 20:42:25"
+    },
+    {
+        "City":"London",
+        "Temperature_Celsius":24.15,
+        "Weather_Description":"scattered clouds",
+        "Humidity_Percentage":50,
+        "Wind_Speed_mps":1.79,
+        "Timestamp":"2026-07-01 20:42:25"
+    },
+    {
+        "City":"Tokyo",
+        "Temperature_Celsius":24.38,
+        "Weather_Description":"moderate rain",
+        "Humidity_Percentage":86,
+        "Wind_Speed_mps":0.45,
+        "Timestamp":"2026-07-01 20:42:26"
+    },
+    {
+        "City":"Sydney",
+        "Temperature_Celsius":18.78,
+        "Weather_Description":"light rain",
+        "Humidity_Percentage":66,
+        "Wind_Speed_mps":2.24,
+        "Timestamp":"2026-07-01 20:42:26"
+    },
+    {
+        "City":"Paris",
+        "Temperature_Celsius":25.41,
+        "Weather_Description":"scattered clouds",
+        "Humidity_Percentage":50,
+        "Wind_Speed_mps":4.54,
+        "Timestamp":"2026-07-01 20:42:26"
+    },
+    {
+        "City":"New York",
+        "Temperature_Celsius":26.15,
+        "Weather_Description":"clear sky",
+        "Humidity_Percentage":69,
+        "Wind_Speed_mps":3.58,
+        "Timestamp":"2026-07-01 20:42:27"
+    },
+    {
+        "City":"London",
+        "Temperature_Celsius":24.15,
+        "Weather_Description":"scattered clouds",
+        "Humidity_Percentage":50,
+        "Wind_Speed_mps":1.79,
+        "Timestamp":"2026-07-01 20:42:27"
+    },
+    {
+        "City":"Tokyo",
+        "Temperature_Celsius":24.38,
+        "Weather_Description":"moderate rain",
+        "Humidity_Percentage":86,
+        "Wind_Speed_mps":0.45,
+        "Timestamp":"2026-07-01 20:42:28"
+    },
+    {
+        "City":"Sydney",
+        "Temperature_Celsius":18.78,
+        "Weather_Description":"light rain",
+        "Humidity_Percentage":66,
+        "Wind_Speed_mps":2.24,
+        "Timestamp":"2026-07-01 20:42:28"
+    },
+    {
+        "City":"Paris",
+        "Temperature_Celsius":25.41,
+        "Weather_Description":"scattered clouds",
+        "Humidity_Percentage":50,
+        "Wind_Speed_mps":4.54,
+        "Timestamp":"2026-07-01 20:42:28"
+    },
+    {
+        "City":"New York",
+        "Temperature_Celsius":26.15,
+        "Weather_Description":"clear sky",
+        "Humidity_Percentage":69,
+        "Wind_Speed_mps":3.58,
+        "Timestamp":"2026-07-01 20:42:29"
+    },
+    {
+        "City":"London",
+        "Temperature_Celsius":24.15,
+        "Weather_Description":"scattered clouds",
+        "Humidity_Percentage":50,
+        "Wind_Speed_mps":1.79,
+        "Timestamp":"2026-07-01 20:42:29"
+    },
+    {
+        "City":"Tokyo",
+        "Temperature_Celsius":24.38,
+        "Weather_Description":"moderate rain",
+        "Humidity_Percentage":86,
+        "Wind_Speed_mps":0.45,
+        "Timestamp":"2026-07-01 20:42:30"
+    },
+    {
+        "City":"Sydney",
+        "Temperature_Celsius":18.78,
+        "Weather_Description":"light rain",
+        "Humidity_Percentage":66,
+        "Wind_Speed_mps":2.24,
+        "Timestamp":"2026-07-01 20:42:30"
+    },
+    {
+        "City":"Paris",
+        "Temperature_Celsius":25.41,
+        "Weather_Description":"scattered clouds",
+        "Humidity_Percentage":50,
+        "Wind_Speed_mps":4.54,
+        "Timestamp":"2026-07-01 20:42:30"
+    },
+    {
+        "City":"New York",
+        "Temperature_Celsius":26.15,
+        "Weather_Description":"clear sky",
+        "Humidity_Percentage":69,
+        "Wind_Speed_mps":3.58,
+        "Timestamp":"2026-07-01 20:42:31"
+    },
+    {
+        "City":"London",
+        "Temperature_Celsius":24.15,
+        "Weather_Description":"scattered clouds",
+        "Humidity_Percentage":50,
+        "Wind_Speed_mps":1.79,
+        "Timestamp":"2026-07-01 20:42:31"
+    },
+    {
+        "City":"Tokyo",
+        "Temperature_Celsius":24.38,
+        "Weather_Description":"moderate rain",
+        "Humidity_Percentage":86,
+        "Wind_Speed_mps":0.45,
+        "Timestamp":"2026-07-01 20:42:32"
+    },
+    {
+        "City":"Sydney",
+        "Temperature_Celsius":18.78,
+        "Weather_Description":"light rain",
+        "Humidity_Percentage":66,
+        "Wind_Speed_mps":2.24,
+        "Timestamp":"2026-07-01 20:42:32"
+    },
+    {
+        "City":"Paris",
+        "Temperature_Celsius":25.41,
+        "Weather_Description":"scattered clouds",
+        "Humidity_Percentage":50,
+        "Wind_Speed_mps":4.54,
+        "Timestamp":"2026-07-01 20:42:33"
+    }
+]
