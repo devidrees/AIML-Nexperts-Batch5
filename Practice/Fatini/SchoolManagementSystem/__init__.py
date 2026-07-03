@@ -1,0 +1,1 @@
+print("School Management System initialized...")
