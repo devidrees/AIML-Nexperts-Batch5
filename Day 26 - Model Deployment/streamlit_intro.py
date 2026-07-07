@@ -25,6 +25,8 @@ st.bar_chart(coffee_table, x="Days", y="Cups of Coffee", color = "#008321")
 
 st.divider() # adds a horizontal line
 
+# ways to take inputs from users
+
 name2 = st.text_input("What is your name????")
 feedback = st.text_area("Leave your comments here:")
 
@@ -42,9 +44,46 @@ agree = st.checkbox("I agree to the terms")
 
 
 st.divider()
-dark_mode = st.toggle("Enable Dark Mode")
+
+show_password = st.toggle("SHOW pass!!")
+if show_password:
+    st.write("This is the password: PASSWORD")
+else:
+    st.write("Nothing to see here!")
+
 
 st.button("Click me")
 
 
+if st.button("Test System"):
+    # st.success("System is working flawlesssssly!")
+    # st.info("Fun fact: System was good yesterday, untill you showed up!")
+    # st.warning("If you keep doing this, I am going to fire you!!!")
+    st.error("NUCLEAR Failure. Kidding we are not in Chernobyl!")
 
+# buttons with celebrate themes
+if st.button("Hurray! we lost the match with SPAIN!"):
+    st.balloons()
+    st.snow()
+
+import time
+if st.button("Timer"):
+    # loading animation 
+    with st.spinner("Making coffee for ya. Wait for it..."):
+        time.sleep(3) # set for 3 seconds
+        st.success("Coffee is MADE. so is your day!")
+
+if st.button("Show table"):
+    st.toast("We fetched the table successfully")
+    st.dataframe(coffee_table)
+
+
+
+st.divider()
+check_robot = st.text_input("What is 5 + 5")
+
+if check_robot == "11":
+    st.success("You are a human")
+
+else:
+    st.error("You are a bot. Shooo away!")
