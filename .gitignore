@@ -1,17 +1,14 @@
-.venv 
-
-# git will not track this folder anymore
-
-.env
-
-
-# Python virtual environments
+# Virtual environments
 .venv/
 tensorflow_env/
+.dlenv/
+
+# Environment files
+.env
 
 # Python cache
 __pycache__/
 *.pyc
 
-# Jupyter checkpoints
+# Jupyter
 .ipynb_checkpoints/
