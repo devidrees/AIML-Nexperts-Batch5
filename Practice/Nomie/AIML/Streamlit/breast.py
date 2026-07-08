@@ -1,63 +1,34 @@
 import streamlit as st
-import pickle
+# import sklearn
 
-model = pickle.load(open("Breast_cancer_model.pkl", "rb"))
+from pathlib import Path
+import joblib
 
-st.title("Breast Cancer Prediction")
+from pathlib import Path
+import joblib
 
-worst_concave_points = st.slider(
-    "Worst Concave Points",
-    min_value=0.00,
-    max_value=0.291,
-    step=0.01
-)
+MODEL_PATH = Path(__file__).parent / "Breast_cancer_model.pkl"
+model = joblib.load(MODEL_PATH)
 
-mean_concave_points = st.slider(
-    "Mean Concave Points",
-    min_value=0.00,
-    max_value=0.291,
-    step=0.01
-)
-
-worst_area = st.slider(
-    "Worst Area",
-    min_value=185.20,
-    max_value=4254.0,
-    step=1.0
-)
-
-worst_radius = st.slider(
-    "Worst Radius",
-    min_value=7.93,
-    max_value=36.04,
-    step=1.0
-)
+st.title("Breast Cancer Detection App")
+st.write("Breast Cancer diagonosis app. Please put your medical data here and let's help you diagonose for free.")
 
 
+
+worst_concave_points = st.slider(min_value=0.00, max_value=0.291, step=0.01, label= "Worst Concave Points")
+mean_concave_points = st.slider(min_value=0.00, max_value=0.291, step=0.01, label= "Mean Concave Points")
+worst_area = st.slider(min_value=185.20, max_value=4254.0, step=1.0, label= "Worst Area")
+worst_radius =  st.slider(min_value=7.93, max_value=36.04, step=1.0, label= "Worst Radius")
+
+
+model = joblib.load(MODEL_PATH)
+    
 if st.button("Diagnosis"):
-
-    input_values = [
-        worst_concave_points,
-        mean_concave_points,
-        worst_area,
-        worst_radius,
-        14.13,
-        40.34,
-        0.41,
-        91.97,
-        0.25,
-        107.26,
-        0.27,
-        25.68,
-        0.03,
-        654.89,
-        0.1
-    ]
-
-    result = model.predict([input_values])[0]
-
+    input_values = [worst_concave_points, mean_concave_points, worst_area, worst_radius, 14.13, 40.34, 0.41, 91.97, 0.25, 107.26, 0.27, 25.68, 0.03, 654.89, 0.1]
+    # needs 15 input
+    result = model.predict([input_values])
     if result == 0:
-        st.warning("⚠️ Cancer is Present")
+        st.warning("Cancer is Present!")
     else:
-        st.success("✅ Cancer Free")
+        st.success("Cancer Free!")
  
