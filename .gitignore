@@ -1,0 +1,18 @@
+# Python virtual environment
+tensorflow_env/
+
+# Temporary files
+temp_files/
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+tensorflow_env/
+temp_files/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
