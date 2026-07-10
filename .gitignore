@@ -1,0 +1,14 @@
+# Virtual environments
+.venv/
+tensorflow_env/
+.dlenv/
+
+# Environment files
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
